@@ -1,0 +1,9 @@
+/* Styles go here */
+
+div {
+  padding: 5px;
+}
+
+#deleteTodoPosInput, #toggleTodoPosInput, #changeTodoPosInput {
+  width: 55px;
+}
